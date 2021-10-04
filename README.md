@@ -1,8 +1,7 @@
-<img src="https://coinwink.com/img/coinwink-logo-horizontal-git.png" width="160">
 
-#### Crypto Alerts, Watchlist and Portfolio Tracking App ####
+#### Crypto Alerts Tracking App ####
 
-[Coinwink](https://coinwink.com) was first built as a WordPress web-app in 2016, and even now it continues to run on the same stack.
+Btcalerts was first built as a WordPress web-app in 2016, and even now it continues to run on the same stack.
 
 While it is tempting to switch to Laravel + Vue, the current WP + jQuery stack runs great. It is fast, secure, relatively easy to maintain and update.
 
